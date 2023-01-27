@@ -1,5 +1,5 @@
 
-<h1 align="left">Hello World! <br>FireDetection</h1>
+<h1 align="left">FireDetection</h1>
 
 ###
 
